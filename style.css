@@ -1,0 +1,14 @@
+body{
+    margin: 0;;
+}
+
+#Box{
+    background-color: hotpink;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
